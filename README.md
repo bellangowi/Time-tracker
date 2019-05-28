@@ -1,4 +1,4 @@
-Relax, I am just trying to create a simple react app for funny!
+Relax, I am just trying to create a simple react app for funny! nothing serious 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
